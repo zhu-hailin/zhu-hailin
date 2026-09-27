@@ -8,7 +8,7 @@
 
 ### 技术方向
 
-Python · Java · Spring · JavaScript · Vue.js
+Python · Java
 
 ### 我的项目
 
