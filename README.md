@@ -12,3 +12,4 @@ Python · Java
 
 - [DJI 一代 4G 面板](https://github.com/zhu-hailin/dji4g-gen1-panel) — Windows 模块管理工具，支持短信收发、状态监测与连接诊断。
 - [数学建模 Skill](https://github.com/zhu-hailin/cumcm-modeling-analyst) — 面向数学建模竞赛的分析与协作工具，覆盖读题、建模、求解与验证。
+- [学习通AI助手](https://github.com/zhu-hailin/chaoxing-ai-assistant) - 学习通AI助手，支持自动刷课、AI一键答题。
